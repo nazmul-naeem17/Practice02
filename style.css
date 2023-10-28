@@ -10,7 +10,7 @@ img{
     bottom: 24px;
     left: 50%;
     transform: translateX(-50%);
-    animation: rocket 5s ease-in-out infinite; 
+    animation: rocket 5s ease-in-out; 
 }
 .div1{
     color: green;
